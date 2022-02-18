@@ -43,7 +43,7 @@
 				}
 			],
 			"type" : "STRING",
-			"value" : "Release"
+			"value" : "Debug"
 		},
 		{
 			"name" : "CMAKE_CACHEFILE_DIR",
@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/cmake-build-release"
+			"value" : "/tmp/tmp.WGqU7IuRq8/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -194,8 +194,8 @@
 					"value" : "CXX compiler"
 				}
 			],
-			"type" : "STRING",
-			"value" : "/usr/bin/g++"
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/c++"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER_AR",
@@ -322,8 +322,8 @@
 					"value" : "C compiler"
 				}
 			],
-			"type" : "STRING",
-			"value" : "/usr/bin/gcc"
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/cc"
 		},
 		{
 			"name" : "CMAKE_C_COMPILER_AR",
@@ -679,7 +679,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi"
+			"value" : "/tmp/tmp.WGqU7IuRq8"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -726,12 +726,16 @@
 			"properties" : 
 			[
 				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
 					"name" : "HELPSTRING",
-					"value" : "No help, variable specified on the command line."
+					"value" : "Path to a program."
 				}
 			],
-			"type" : "UNINITIALIZED",
-			"value" : "/usr/bin/make"
+			"type" : "FILEPATH",
+			"value" : "/usr/bin/gmake"
 		},
 		{
 			"name" : "CMAKE_MODULE_LINKER_FLAGS",
@@ -1243,7 +1247,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/cmake-build-release"
+			"value" : "/tmp/tmp.WGqU7IuRq8/cmake-build-debug"
 		},
 		{
 			"name" : "ee205_lab06d_hello_clion_IS_TOP_LEVEL",
@@ -1267,7 +1271,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi"
+			"value" : "/tmp/tmp.WGqU7IuRq8"
 		}
 	],
 	"kind" : "cache",

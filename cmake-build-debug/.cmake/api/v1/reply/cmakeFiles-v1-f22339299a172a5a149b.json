@@ -16,7 +16,12 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.22.2/CMakeSystem.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.22.2/CMakeSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/usr/share/cmake/Modules/CMakeUnixFindMake.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -255,7 +260,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.22.2/CMakeCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.22.2/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -484,7 +489,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -623,7 +628,7 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.22.2/CMakeCCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.22.2/CMakeCCompiler.cmake"
 		},
 		{
 			"isCMake" : true,
@@ -717,14 +722,14 @@
 		},
 		{
 			"isGenerated" : true,
-			"path" : "cmake-build-release/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake"
+			"path" : "cmake-build-debug/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake"
 		}
 	],
 	"kind" : "cmakeFiles",
 	"paths" : 
 	{
-		"build" : "/users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi/cmake-build-release",
-		"source" : "/users10/ee/fac/marknels/tmp/tmp.Vb2U1fXZVi"
+		"build" : "/tmp/tmp.WGqU7IuRq8/cmake-build-debug",
+		"source" : "/tmp/tmp.WGqU7IuRq8"
 	},
 	"version" : 
 	{
